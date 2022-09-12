@@ -9,27 +9,117 @@
 <font color="red">1P02 is</font>
 <em>sweet?</em>
 </center>
-</body>
-<center>
-  <img src="https://i0.wp.com/winkgo.com/wp-content/uploads/2017/09/49-Funny-School-Memes-Not-Everyone-Likes-School-30.jpg?resize=720%2C720&ssl=1" width="250" Height="300"/>
-</center>
+<body>
+  <img src="https://i0.wp.com/winkgo.com/wp-content/uploads/2017/09/49-Funny-School-Memes-Not-Everyone-Likes-School-30.jpg?resize=720%2C720&ssl=1" width="450" Height="500" align="right"/>
 <table>
-<tr><caption><em><font color="purple">Top three places I would love to visit</font></em></caption></tr>
-</table>
-<ol>
-<li>Switzerland</li>
-<li>Australia</li>
-<li>Bhutan</li>
-</ol>
-<ul>
-<li></li>
-<li>Second</li>
-<li>third</li>
-</ul>
+  <table border="1">
+    <tr> <td colspan="8"><center><strong>2022</strong></center></td></tr>
+    <tr> <td rowspan="2" width="100"><center>September</center></td>
+      <td width="75" height="30">Sun</td>
+      <td width="75" height="30">Mon</td>
+      <td width="75" height="30">Tues</td>
+      <td width="75" height="30">Wed</td>
+      <td width="75" height="30">Thurs</td>
+      <td width="75" height="30">Fri</td>
+      <td width="75" height="30">Sat</td>
+    </tr>
+    <tr>
+      <td width="75" height="75"></td>
+      <td width="75" height="75"></td>
+      <td width="75" height="75"></td>
+      <td width="75" height="75"></td>
+      <td width="75" height="75">1</td>
+      <td width="75" height="75">2</td>
+      <td width="75" height="75">3</td>
+    </tr>
+    <tr>
+      <td rowspan="4" width="25" height="25" valign="top"><center><vertical align="top"><em>notes</em></center></td>
+      <td width="75" height="75">4</td>
+      <td width="75" height="75">5</td>
+      <td width="75" height="75">6</td>
+      <td width="75" height="75">7</td>
+      <td width="75" height="75">8</td>
+      <td width="75" height="75">9</td>
+      <td width="75" height="75">10</td>
+    </tr>
+    <tr>
+      <td width="75" height="75">11</td>
+      <td width="75" height="75">12</td>
+      <td width="75" height="75">13</td>
+      <td width="75" height="75">14</td>
+      <td width="75" height="75">15</td>
+      <td width="75" height="75">16</td>
+      <td width="75" height="75">17</td>
+    </tr>
+    <tr>
+      <td width="75" height="75">18</td>
+      <td width="75" height="75">19</td>
+      <td width="75" height="75">20</td>
+      <td width="75" height="75">21</td>
+      <td width="75" height="75">22</td>
+      <td width="75" height="75">23</td>
+      <td width="75" height="75">24</td>
+    </tr>
+    <tr>
+      <td width="75" height="75">25</td>
+      <td width="75" height="75">26</td>
+      <td width="75" height="75">27</td>
+      <td width="75" height="75">28</td>
+      <td width="75" height="75">29</td>
+      <td width="75" height="75">30</td>
+      <td width="75" height="75"></td>
+    </tr>
+  </table>
+</body>
 
+<br>
+<br>
+<table>
+  <table border="1">
+<tr> <td colspan="3"><center><strong>Sports I have competed in over the years</strong></center></td> </tr>
+
+<tr>
+  <td width="150" height="50"><center><em><font color="purple">Sport</font></em></center></td>
+  <td width="100" height="50"><center><em><font color="purple">Years Played</font></em></center></td>
+  <td width="175" height="50"><center><em><font color="purple">Team Name</font></em></center></td>
+</tr>
+<tr>
+  <td> Swimming </td>
+  <td> 4 </td>
+  <td> Cobra Swim Club </td>
+</tr>
+<tr>
+  <td> Ultimate Frisbee </td>
+  <td> 11 </td>
+  <td>
+    <ul>
+    <li> Crux </li>
+    <li> Brock U Women's</li>
+</ul>
+</td>
+</tr>
+<tr>
+  <td> Triathlon </td>
+  <td> 8 </td>
+  <td>
+    <ul>
+      <li> C3 Club </li>
+      <li> Tornado's </li>
+      <li> Edge Club </li>
+    </ul>
+  </td>
+</tr>
+
+</table>
+<ol> <u><strong>Colour's ranked from my most to least favourite</strong></u>
+<li>Teal</li>
+<li>Mauve</li>
+<li>Ocean Blue </li>
+<li>Light Green</li>
+<li>Yellow</li>
+<li>Orange</li>
+</ol>
+<center><img src="C:\Users\Admin\Documents\GitHub\IASC1P02Lab1-01\IMG_5027.JPG" width="700" Height="500"/></center>
+<center>Picture taken by H.Lang in 2018 on a hike in Hong Kong</center>
 
 </html>
-
-
-List - Order and Unorder
-table rowspan and colspan
